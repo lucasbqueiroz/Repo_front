@@ -1,0 +1,4 @@
+{
+    "testFiles": "**/*.feature",
+    "BaseUrl" : "https://www.vr.com.br/"
+}
